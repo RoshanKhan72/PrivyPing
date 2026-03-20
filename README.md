@@ -48,7 +48,7 @@ Users are encouraged to verify critical information independently.
 ## 👨‍💻 Author
 
 Developed as part of a **Software Engineer Internship at Swavik**  
-(Bangalore | Remote/Hybrid)
+(Remote/Hybrid)
 
 ---
 
