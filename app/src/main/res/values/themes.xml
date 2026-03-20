@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PrivyPing" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.PrivyPing.Splash" parent="Theme.SplashScreen">
+
+        <!-- Match app background -->
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+
+        <!-- No system logo -->
+        <item name="windowSplashScreenAnimatedIcon">@null</item>
+
+        <!-- Instant handoff -->
+        <item name="windowSplashScreenAnimationDuration">0</item>
+
+        <!-- Switch to app theme -->
+        <item name="postSplashScreenTheme">@style/Theme.PrivyPing</item>
+
+    </style>
+
+
+
+</resources>
